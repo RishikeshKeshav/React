@@ -16,7 +16,6 @@ function App() {
    setCounter(prevCounter => prevCounter+1)
    setCounter(prevCounter => prevCounter+1)
    setCounter(prevCounter => prevCounter+1)
-
  }
 
  const decreaseValue = () => {
